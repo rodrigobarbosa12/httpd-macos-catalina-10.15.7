@@ -1,5 +1,5 @@
 
-## 🧩 Alterações no arquivo httpd.conf
+## 🏗 Alterações no arquivo httpd.conf
 
 ### 1º Passo
     User _www
